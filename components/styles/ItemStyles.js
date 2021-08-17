@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const ItemStyles = styled.div`
+const Item = styled.div`
   background: white;
   border: 1px solid var(--offWhite);
   box-shadow: var(--bs);
@@ -35,4 +35,4 @@ const ItemStyles = styled.div`
   }
 `;
 
-export default ItemStyles;
+export default Item;
